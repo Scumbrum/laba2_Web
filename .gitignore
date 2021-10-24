@@ -1,1 +1,6 @@
 .vercel
+node_modules
+.eslintignore
+.eslintrc.js
+package.json
+package-lock.json
